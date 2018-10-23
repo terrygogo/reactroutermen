@@ -14,20 +14,20 @@ https://github.com/facebook/create-react-app
 
 
 ## 관련사이트 
-[react.js](https://github.com/facebook/create-react-app)
-[Create React App](https://github.com/facebook/create-react-app).
-[react-router](https://github.com/ReactTraining/react-router)
-[material-ui](https://material-ui.com/)
-[axios](https://github.com/axios/axios)
+[react.js](https://github.com/facebook/create-react-app) 
+ [Create React App](https://github.com/facebook/create-react-app).
+ [react-router](https://github.com/ReactTraining/react-router)
+ [material-ui](https://material-ui.com/)
+ [axios](https://github.com/axios/axios)
 
 
 ## 설치및 테스트 
 
->git가 설치 되어 있다면 
+git가 설치 되어 있다면 
 
-git clone https://github.com/terrygogo/reactroutermen.git
+> git clone https://github.com/terrygogo/reactroutermen.git
 
->아니면 zip 파일을 받아 압축을 풀고 
+> 아니면 zip 파일을 받아 압축을 풀고 
 
 해당 디랙토리로 이동 후 
 
