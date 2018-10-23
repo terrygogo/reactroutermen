@@ -49,7 +49,10 @@ vs code를 아래와 같이 실행하고
 
 code 내의 터미널 창에서 위 install / start /build 실행 
  
-## crete-react-app original guide
+진행 하시다가 혹 잘안되것나 궁금 하신것이 있으면 알려주세요.  
+ 
+ 
+## crete-react-app는 react project를 생성해주는 간편도구로 아래는 원레의 가이드 입니다. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
