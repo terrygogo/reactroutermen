@@ -102,7 +102,7 @@ function Home(props) {
               <Grid item md={6}>
                 <div className={classes.mainFeaturedPostContent}>
                   <Typography component="h1" variant="h3" color="inherit" gutterBottom>
-                    Title of a longer featured blog post
+                    Title of a longㅇㅍㄴㅇㅍㄴㅇㅍㄴㅇㅍㅇㄴㅍer featured blog post
                   </Typography>
                   <Typography variant="h5" color="inherit" paragraph>
                     Multiple lines of text that form the lede, informing new readers quickly and

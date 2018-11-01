@@ -211,7 +211,7 @@ class Dashboard extends React.Component {
               >
                 <MenuIcon />
               </IconButton>
-              Dashboard
+              Dashboard 아님
               <IconButton color="inherit">
                 <NotificationsIcon />
               </IconButton>
