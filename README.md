@@ -84,8 +84,10 @@ add backend server proxy entry for develpoment to "package.json"
 
 "proxy": "http://localhost:3030"
  
+### code 사용시 자동 포맷 및 문법 검사 설정 
+ https://medium.com/technical-credit/using-prettier-with-vs-code-and-create-react-app-67c2449b9d08
  
-###  crete-react-app는 react project를 생성해주는 간편도구로 아래는 원레의 가이드는 프로젝트내의 README.md 를 미리보기로 열어 참조 하세요 
+###  참고로 crete-react-app는 react project를 생성해주는 간편도구로 아래는 원레의 가이드는 프로젝트내의 README.md 를 미리보기로 열어 참조 하세요 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
