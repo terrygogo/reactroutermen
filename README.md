@@ -31,6 +31,8 @@ git가 설치 되어 있다면
 
 >npm build 
 
+**서버와 연동이 정확하게 하려면 backend를 먼저 실행하세요**
+https://github.com/terrygogo/expresszero 
 
 vs code 를 사용하는 경우엔 내려받은 디렉토리에서 
 vs code를 아래와 같이 실행하고 
