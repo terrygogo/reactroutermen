@@ -39,6 +39,9 @@ vs code를 아래와 같이 실행하고
 
 code 내의 터미널 창에서 위 명령 실행 
  
+chrome extention for react 
+
+https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=ko 
  
 ## 처음 부터 새로 만들때의 작업 과정 입니다.  
  
@@ -65,10 +68,11 @@ http request/response 설치
 > npm install axios   
 https://github.com/axios/axios
 
-이후 vs-code로 작성 
+
 
 > code .
 
+이후 vs-code로 작성 
 
 ### 메인 페이지를 생성하고  ( app.js ) 
 
