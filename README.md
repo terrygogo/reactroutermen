@@ -1,3 +1,66 @@
+
+# Terry's React + React Router + material-ui + axios sample project 
+
+## 먼저 설치 할 것 
+
+install node & npm
+https://nodejs.org/en/download/
+
+visual studio code
+https://code.visualstudio.com/download
+
+create-react-app ( react boilerplate generator) 
+https://github.com/facebook/create-react-app
+
+
+## 관련사이트 
+[react.js](https://github.com/facebook/create-react-app) 
+ [Create React App](https://github.com/facebook/create-react-app).
+ [react-router](https://github.com/ReactTraining/react-router)
+ [material-ui](https://material-ui.com/)
+ [axios](https://github.com/axios/axios)
+
+
+## 설치및 테스트 
+
+git가 설치 되어 있다면 
+
+> git clone https://github.com/terrygogo/reactroutermen.git
+
+> 아니면 zip 파일을 받아 압축을 풀고 
+
+해당 디랙토리로 이동 후 
+
+패키지 설치
+> npm install
+
+실행 
+> npm start
+
+빌드를 수행하면 build 폴더 안에 생성
+
+>npm build 
+
+
+vs code 를 사용하는 경우엔 내려받은 디렉토리에서 
+vs code를 아래와 같이 실행하고 
+
+> code . 
+
+code 내의 터미널 창에서 위 install / start /build 실행 
+ 
+진행 하시다가 혹 잘안되것나 궁금 하신것이 있으면 알려주세요.  
+ 
+ 
+## crete-react-app는 react project를 생성해주는 간편도구로 아래는 원레의 가이드 입니다. 
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Below you will find some information on how to perform common tasks.<br>
+You can find the most recent version of this guide [here](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md).
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
